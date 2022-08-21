@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://filmzard.com</id>
+    <title>Zard</title>
+    <updated>2022-08-21T15:33:14.887Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://filmzard.com"/>
+    <link rel="self" href="https://filmzard.com/atom.xml"/>
+    <subtitle>世间唯一公平的是每个人都会死亡</subtitle>
+    <logo>https://filmzard.com/images/avatar.png</logo>
+    <icon>https://filmzard.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Zard</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://filmzard.com/post/1/</id>
+        <link href="https://filmzard.com/post/1/">
+        </link>
+        <updated>2022-08-04T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<center>遗失的钢琴</center>]]></content>
+    </entry>
+</feed>
